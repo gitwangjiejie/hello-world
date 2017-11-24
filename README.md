@@ -1,2 +1,2 @@
 # hello-world
-just another repository for wangjie
+hello everyone , this is test for master .
